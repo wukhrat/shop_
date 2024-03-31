@@ -4,8 +4,8 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="2541acfb-8ef4-4635-934b-5cedb83ec304" name="Changes" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+    <list default="true" id="2541acfb-8ef4-4635-934b-5cedb83ec304" name="Changes" comment="project created">
+      <change beforePath="$PROJECT_DIR$/shop_system/settings.py" beforeDir="false" afterPath="$PROJECT_DIR$/shop_system/settings.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -50,9 +50,20 @@
       <option name="presentableId" value="Default" />
       <updated>1711887829622</updated>
     </task>
+    <task id="LOCAL-00001" summary="project created">
+      <option name="closed" value="true" />
+      <created>1711888549124</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1711888549124</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
     <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
+    <MESSAGE value="project created" />
+    <option name="LAST_COMMIT_MESSAGE" value="project created" />
   </component>
 </project>
