@@ -4,7 +4,15 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="2541acfb-8ef4-4635-934b-5cedb83ec304" name="Changes" comment="project created">
+    <list default="true" id="2541acfb-8ef4-4635-934b-5cedb83ec304" name="Changes" comment="shop, product, category apps added">
+      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/category/admin.py" beforeDir="false" afterPath="$PROJECT_DIR$/category/admin.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/category/models.py" beforeDir="false" afterPath="$PROJECT_DIR$/category/models.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/product/admin.py" beforeDir="false" afterPath="$PROJECT_DIR$/product/admin.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/product/models.py" beforeDir="false" afterPath="$PROJECT_DIR$/product/models.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/shop/admin.py" beforeDir="false" afterPath="$PROJECT_DIR$/shop/admin.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/shop/models.py" beforeDir="false" afterPath="$PROJECT_DIR$/shop/models.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/shop_system/settings.py" beforeDir="false" afterPath="$PROJECT_DIR$/shop_system/settings.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -58,12 +66,30 @@
       <option name="project" value="LOCAL" />
       <updated>1711888549124</updated>
     </task>
-    <option name="localTasksCounter" value="2" />
+    <task id="LOCAL-00002" summary="setting up databases">
+      <option name="closed" value="true" />
+      <created>1711888898749</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1711888898749</updated>
+    </task>
+    <task id="LOCAL-00003" summary="shop, product, category apps added">
+      <option name="closed" value="true" />
+      <created>1711889064788</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1711889064788</updated>
+    </task>
+    <option name="localTasksCounter" value="4" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
     <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
     <MESSAGE value="project created" />
-    <option name="LAST_COMMIT_MESSAGE" value="project created" />
+    <MESSAGE value="setting up databases" />
+    <MESSAGE value="shop, product, category apps added" />
+    <option name="LAST_COMMIT_MESSAGE" value="shop, product, category apps added" />
   </component>
 </project>
