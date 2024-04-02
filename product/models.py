@@ -1,4 +1,5 @@
 from django.db import models
+from category.models import Category
 
 
 class Product(models.Model):
@@ -12,3 +13,8 @@ class Product(models.Model):
 
     def __str__(self):
         return f'title: {self.title}  price: {self.price}   amount: {self.amount}'
+
+
+class ProductCategory(models.Model):
+    product_id = models.ForeignKey(Product, on_delete=models.CASCADE)
+    category_id = models.ForeignKey(Category, on_delete=models.CASCADE)

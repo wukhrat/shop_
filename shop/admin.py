@@ -1,11 +1,11 @@
 from django.contrib import admin
 
-from .models import Product
+from .models import Shop
 
 
-class ProductAdmin(admin.ModelAdmin):
+class ShopAdmin(admin.ModelAdmin):
     list_display = ('id', 'title', 'description')
     search_fields = ('id', 'title', 'description')
 
 
-admin.site.register(Product, ProductAdmin)
+admin.site.register(Shop, ShopAdmin)
